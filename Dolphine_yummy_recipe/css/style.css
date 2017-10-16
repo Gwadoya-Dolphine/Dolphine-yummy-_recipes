@@ -1,0 +1,40 @@
+.header{
+	background-color:#dd7632;
+
+	height: 150px;
+}
+#logo{
+	margin-top:10px;}
+#bg{
+	background-image: url(../images/bg.png);
+	height: 500px;
+	margin-top: 0px;
+}
+#video h2{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 26px;
+	color: black;
+}
+#video p{
+	text-align: center;
+	font-size: 18px;
+}
+#video {
+	text-align: center;
+	margin-top: 60px;
+}
+#form{
+	background-color: #5b1a00;
+	margin-top:60px;
+	height:350px;
+	
+}
+#bg2{
+	background-image: url(../images/most.png);
+
+}
+#reg{
+	background-image: url(../images/most.png);
+	height: 700px;
+}
